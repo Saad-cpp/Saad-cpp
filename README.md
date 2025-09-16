@@ -39,7 +39,7 @@ I’m passionate about building **intelligent systems** that combine ML, knowled
 ---
 
 ## 📌 Projects
-- **[KHALQ: Personalized Hospital Recommender](#)** — Location-aware recommendation system using ML on 700+ classes.  
+- **KHALQ: Personalized Hospital Recommender** — Location-aware recommendation system using ML on 700+ classes.  
 - **Inbound AI Agent** — Multi-tenant calling system with appointment workflows.  
 - **Outbound Communication Agent** — Automated outreach via calls, SMS, and email.  
 - **Meeting Joiner AI Assistant** — Autonomous meeting assistant with Slack + GitHub integration.  
